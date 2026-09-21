@@ -1,0 +1,6 @@
+print (True, type(True))
+print (30, type(30))
+print (-2026, type(-2026))
+print (14.95, type(14.95))
+print (5e10, type(5e10))
+print ("La parte contratante de la primera parte", type("La parte contratante de la primera parte"))
