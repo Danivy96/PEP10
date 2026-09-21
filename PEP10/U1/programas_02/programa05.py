@@ -1,0 +1,10 @@
+print("Dame dos números")
+num1=float(input("Número 1: "))
+num2=float(input("Número 2: "))
+
+print("La suma es: ", num1+num2)
+print("La resta es: ", num1-num2) 
+print("La multiplicación es: ", num1*num2)
+print("La división es: ",num1/num2)
+print("El módulo es: ", num1%num2)
+print("La potencia es: ", num1**num2)
