@@ -1,5 +1,5 @@
 def saludo(nombre, primer_apellido, segundo_apellido):
-    print(f"{nombre}{primer_apellido}{segundo_apellido}")
+    print(f"Hola {nombre} {primer_apellido} {segundo_apellido}")
 
 
 nom = input("Introduce nombre: ")
